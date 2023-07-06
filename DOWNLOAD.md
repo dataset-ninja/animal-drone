@@ -1,6 +1,6 @@
 Dataset **Animal Drone** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/S/4/iI/U3XmMkTsXkuD7GrbNq4lbPb8EvnKCsU6ZCZUoxK2FPEVqCMRzdThwHfl1DMU5BVdpHu86EWUVTWMkPUbQTr9w0IrhnimkKpvMub4Xi8CQ07PudjVLuvMWuHowKGd.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/S/4/iI/U3XmMkTsXkuD7GrbNq4lbPb8EvnKCsU6ZCZUoxK2FPEVqCMRzdThwHfl1DMU5BVdpHu86EWUVTWMkPUbQTr9w0IrhnimkKpvMub4Xi8CQ07PudjVLuvMWuHowKGd.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
